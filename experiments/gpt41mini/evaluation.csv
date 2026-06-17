@@ -1,0 +1,3 @@
+test_prompt,agent_response_excerpt,intent_resolution,relevance,groundedness,depth,commentsday-hike-gear,"For summer day hikes on moderate terrain...",4,4,4,3,Good coverage but less detailed than GPT-4
+overnight-camping,"First overnight camping essentials include...",4,4,4,3,Solid advice, slightly less nuanced
+three-day-backpacking,"October mountain safety priorities...",4,4,4,4,Good safety guidance, concisewinter-hiking,"Winter hiking requires additional gear...",4,4,4,3,Clear comparison, adequate detailtrail-difficulty,"To assess trail difficulty as a beginner...",4,4,4,4,Practical framework provided
